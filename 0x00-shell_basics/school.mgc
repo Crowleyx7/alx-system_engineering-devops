@@ -1,2 +1,2 @@
 #!/bin/bash
-gerp school *school
+file -search $SCHOOL=0 
